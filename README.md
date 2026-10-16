@@ -28,12 +28,14 @@ I'm currently exploring the world of programming and building my foundation in s
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,css,html,ai&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,css,html,ai,numpy,pandas&theme=dark" alt="Tech Stack" />
 </p>
 
 **Currently exploring:**
-- Python for programming and data analysis
-- NumPy and Pandas for working with data
+
+- Python for programming and automation
+- NumPy for numerical computing
+- Pandas for data analysis and manipulation
 - Machine Learning fundamentals
 - Deep Learning concepts and neural networks
 
