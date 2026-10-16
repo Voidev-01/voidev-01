@@ -4,7 +4,7 @@
     src="./header2.jpg"
     width="100%"
     alt="voidev Void Header"
-    style="border-radius: 20px;"
+    style="border-radius: 200px;"
   />
 </p>
 
