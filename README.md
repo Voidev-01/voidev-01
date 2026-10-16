@@ -1,6 +1,13 @@
+
 <p align="center">
-  <img src="./header2.jpg" width="100%" alt="voidev Void Header" />
+  <img
+    src="./header2.jpg"
+    width="100%"
+    alt="voidev Void Header"
+    style="border-radius: 20px;"
+  />
 </p>
+
 # `voidev` — Beyond the Void 🌑
 
 <p align="center">
