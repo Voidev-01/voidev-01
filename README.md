@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./header2.jpg" width="100%" alt="voidev Void Header" />
+</p>
 # `voidev` — Beyond the Void 🌑
 
 <p align="center">
