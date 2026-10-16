@@ -28,7 +28,7 @@ I'm currently exploring the world of programming and building my foundation in s
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,numpy,pandas,css,html,Django&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,Numpy,pandas,css,html,Django&theme=dark" alt="Tech Stack" />
 </p>
 
 **Currently exploring:**
